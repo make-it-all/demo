@@ -12,6 +12,11 @@ google.charts.setOnLoadCallback(function(){
   }
 });
 </script>
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,de,zh-CN'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
         <div id="page_content">
 
           <div class="column-4">
